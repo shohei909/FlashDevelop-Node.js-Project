@@ -1,0 +1,3 @@
+@echo off
+node bin/$(ProjectID).js
+pause
