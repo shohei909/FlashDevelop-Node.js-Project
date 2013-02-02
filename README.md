@@ -1,5 +1,12 @@
-ツール > アプリケーションファイルの表示
-を選択し、現れたウィンドウに「Projects」フォルダを移動させます。
+「Projects」を
+C:\Program Files (x86)\FlashDevelop\  
+または、
+C:\Program Files\FlashDevelop\  
+に移動させます。
 
-Tools > Aplication Files... 
-Move the "Projects", into the window that appears.
+---
+
+Move the "Projects" to  
+C:\Program Files (x86)\FlashDevelop\  
+or  
+C:\Program Files\FlashDevelop\  
