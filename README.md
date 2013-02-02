@@ -1,6 +1,6 @@
-「Projects」を
+「Projects」を  
 C:\Program Files (x86)\FlashDevelop\  
-または、
+または、  
 C:\Program Files\FlashDevelop\  
 に移動させます。
 
